@@ -1,6 +1,6 @@
 # flutter_recipes_app
 
-A new Flutter project.
+##Flutter Apprentice
 
 ## Chapter 2
 
